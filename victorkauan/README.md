@@ -9,3 +9,7 @@
 | **DEBUG** | Define ativação do modo debug |
 | **USER** | Usuário principal da aplicação |
 | **TOKEN** | Chave de acesso da aplicação |
+
+## Últimas alterações
+
+- Documenta variáveis de ambiente no README.md
