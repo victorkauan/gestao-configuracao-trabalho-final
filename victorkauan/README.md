@@ -10,6 +10,10 @@
 | **USER** | Usuário principal da aplicação |
 | **TOKEN** | Chave de acesso da aplicação |
 
+## Imagens
+
+![Histórico de commits do repositório](./images/log.png)
+
 ## Últimas alterações
 
 - Documenta variáveis de ambiente no README.md
